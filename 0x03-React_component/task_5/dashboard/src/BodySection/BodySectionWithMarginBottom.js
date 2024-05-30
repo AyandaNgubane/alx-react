@@ -1,4 +1,4 @@
-mport PropTypes from "prop-types";
+import PropTypes from "prop-types";
 import React, { Component } from "react";
 import BodySection from "./BodySection";
 import "./BodySectionWithMarginBottom.css";
